@@ -3,4 +3,8 @@ pandas
 numpy
 scikit-learn
 joblib
+xgboost
+catboost
+optuna
+shap
 
