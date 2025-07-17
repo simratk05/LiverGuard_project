@@ -90,7 +90,7 @@ scaler = joblib.load("scaler.pkl")
 st.set_page_config(page_title="LiverGuard - Health Predictor", layout="centered")
 
 # --- Custom CSS Styling ---
-st.markdown(
+st.markdown("""
     <style>
     /* Background gradient or image */
     body {
@@ -135,7 +135,7 @@ st.markdown(
         margin-bottom: 10px;
     }
     </style>
-, unsafe_allow_html=True)
+""", unsafe_allow_html=True)
 
 # Optional Liver image on top
 st.markdown('<img src="https://cdn-icons-png.flaticon.com/512/3794/3794666.png" class="liver-image">', unsafe_allow_html=True)
