@@ -5,6 +5,11 @@ The app URL is given as follows-
 
 https://liverguardproject.streamlit.app/
 
+<img width="1411" height="806" alt="image" src="https://github.com/user-attachments/assets/b20d447c-03ea-48bb-9f6d-61a12afb5f18" />
+
+
+
+
 # Dataset
 
 The dataset used was taken from my previous project, in which patient data was taken using different sensors and compiled into one .csv file
